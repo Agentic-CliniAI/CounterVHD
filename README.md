@@ -1,4 +1,4 @@
-# MICCAI 2026：Detecting Clinical Hallucinations in LVLMs via Counterfactual Visual Grounding Uncertainty 
+# Detecting Clinical Hallucinations in LVLMs via Counterfactual Visual Grounding Uncertainty (MICCAI 2026)
 
 ## 🔧 Dependencies and Installation
 - Python == 3.10.18
